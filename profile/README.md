@@ -1,8 +1,9 @@
 # Welcome to Turing AI
 
-![Turing AI logo](https://turingai.tech/neon.png)
-
-Turing AI is a small but fast-growing organization that focuses on creating Discord bots and exploring new ways to use AI in combination with other AI technologies. We are an international team of passionate developers, data scientists, and AI researchers who share a common goal: to make AI technology free and accessible to everyone without restrictions.
+<div style="display: flex; flex-direction:row; items-align:center;">
+  <img src="https://turingai.tech/neon.png">
+<p>Turing AI is a small but fast-growing organization that focuses on creating Discord bots and exploring new ways to use AI in combination with other AI technologies. We are an international team of passionate developers, data scientists, and AI researchers who share a common goal: to make AI technology free and accessible to everyone without restrictions.</p>
+</div>
 
 ## About us
 

@@ -1,12 +1,16 @@
-## Hi there 👋
+# Welcome to Turing AI
 
-<!--
+![Turing AI logo](https://turingai.tech/neon.png)
 
-**Here are some ideas to get you started:**
+Turing AI is a small but fast-growing organization that focuses on creating Discord bots and exploring new ways to use AI in combination with other AI technologies. We are an international team of passionate developers, data scientists, and AI researchers who share a common goal: to make AI technology free and accessible to everyone without restrictions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About us
+
+At Turing AI, we're dedicated to developing innovative AI tools and solutions that are designed to help automate and streamline various tasks and workflows. Our team is made up of talented and experienced individuals who are passionate about AI and constantly exploring new and innovative ways to leverage this technology to solve real-world problems.
+
+## Our projects
+
+
+## Join us
+
+If you're interested in AI and want to contribute to our projects, feel free to join us! We're always looking for talented individuals who share our passion for AI and are dedicated to making AI technology accessible to everyone. Contact us at [our discord server](https://dsc.gg/turing) to learn more about our organization and how you can get involved.
